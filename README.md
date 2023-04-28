@@ -1,1 +1,1 @@
-# 151-class
+# PRO-C151-Student-Activity
